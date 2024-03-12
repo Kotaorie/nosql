@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "faker": "^6.6.6",
+    "mongodb": "^6.5.0"
+  },
+  "devDependencies": {
+    "Faker": "^0.7.2"
+  }
+}
